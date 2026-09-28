@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-x-module",
+  "versions": [
+    {
+      "commit": "23df0b9487b354fdb7866e476cf43f71e1db480a",
+      "tag": "v0.2.3",
+      "parsed_at": "2026-09-28T07:02:37.012698+00:00"
+    }
+  ]
+}
